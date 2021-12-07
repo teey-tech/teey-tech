@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @teey-tech
 - 👀 I’m interested in learning and coding
-- 🌱 I’m currently learning javascritp
+- 🌱 I’m currently learning javascript
 
 <!---
 teey-tech/teey-tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
