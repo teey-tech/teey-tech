@@ -1,8 +1,17 @@
-- 👋 Hi, I’m @teey-tech
-- 👀 I’m interested in learning and coding
-- 🌱 I’m currently learning javascript
+## Hello My name is Thiago and welcome to my Github page
 
-<!---
-teey-tech/teey-tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<ul>
+
+  👨‍💻 Student at Generation in training for becoming a java FullStack dev!
+
+  😄 He
+
+  🎓 I have a bachelor degree in Information System. 
+
+  🖥️ Experience on PHP FullStack and WordPress.
+
+  📫 You can find me by clicking the links bellow.
+
+  📝 A fact about me is that i never give up doesn't matter the situation.
+</ul>
+
