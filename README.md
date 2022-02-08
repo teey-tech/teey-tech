@@ -4,8 +4,6 @@
 
   👨‍💻 Student at Generation in training for becoming a java FullStack dev!
 
-  😄 He
-
   🎓 I have a bachelor degree in Information System. 
 
   🖥️ Experience on PHP FullStack and WordPress.
