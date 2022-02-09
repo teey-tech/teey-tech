@@ -12,7 +12,7 @@
 
   📝 A fact about me is that i never give up doesn't matter the situation.
   
- 
+ ##
 </div>
 
 ## Code and learn trust the process.
