@@ -16,9 +16,9 @@
 </ul>
 
 ## Code and learn trust the process.
-<ul>
+<div>
   <img src="https://github.com/teey-tech/teey-tech/blob/main/assets/@teey-tech.gif?raw=true" max-width="1000px" width="1000px" align="center" alt="Logo Gif"></img>
-</ul>
+</div>
 
 ## Percist even if you fail.
  <div align="center">
