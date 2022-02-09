@@ -52,7 +52,7 @@
    ##
     
   <div> 
-   <a href="https://www.linkedin.com/in/thiago-batista-da-graca/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><a href=https://open.spotify.com/user/312q45wdr7u4mlojd4fzhcakllmi> <img src=https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white>
+   <a href="https://www.linkedin.com/in/thiago-batista-da-graca/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><a href=https://open.spotify.com/user/312q45wdr7u4mlojd4fzhcakllmi> <img src=https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white></a>
 
  ![Snake animation](https://github.com/teey-tech/teey-tech/blob/output/github-contribution-grid-snake.svg)
     
