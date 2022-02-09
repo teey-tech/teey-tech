@@ -1,6 +1,6 @@
 ## Hello My name is Thiago and welcome to my Github page
 
-<ul>
+<div>
 
   👨‍💻 Student at Generation in training for becoming a java FullStack dev!
 
@@ -13,7 +13,7 @@
   📝 A fact about me is that i never give up doesn't matter the situation.
   
  
-</ul>
+</div>
 
 ## Code and learn trust the process.
 <div>
@@ -43,10 +43,6 @@
   <img  align="center"  alt="teey-Jquery"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" />
   <img  align="center"  alt="teey-GitHub"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
   <img  align="center"  alt="teey-Bootstrap"  height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
-
-
-
-
 </div>
     
    ##
