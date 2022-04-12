@@ -2,11 +2,11 @@
 
 <div>
 
-  👨‍💻 Student at Generation in training for becoming a java FullStack dev!
+  👨‍💻 Formed at Generation Brasil and now i am a java FullStack dev!
 
   🎓 I have a bachelor degree in Information System. 
 
-  🖥️ Experience on PHP FullStack and WordPress.
+  🖥️ You can find about my experiences in the icons below.
 
   📫 You can find me by clicking the links bellow.
 
